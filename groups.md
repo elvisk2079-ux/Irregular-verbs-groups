@@ -1,6 +1,6 @@
 # Неправильные глаголы B1–B2 по группам чередований
 
-108 глаголов · 15 групп
+109 глаголов · 16 групп
 
 
 ## 1. A – A – A — Все три формы одинаковые
@@ -70,7 +70,16 @@ V2 = V3. Гласная не меняется, меняется только к�
 | burn | burnt/burned | burnt/burned | [bɜːn] – [bɜːnt] – [bɜːnt] | гореть, обжигать |
 | learn | learnt/learned | learnt/learned | [lɜːn] – [lɜːnt] – [lɜːnt] | учить, узнавать |
 
-## 5. -ay → -aid — -ay / -ake превращается в -aid / -ade
+## 5. [aɪ] → [aʊ]  ind → ound — -ind превращается в -ound
+
+V2 = V3. Звук [aɪ] меняется на [aʊ]: find → found, bind → bound. Остальные буквы на месте.
+
+| V1 | V2 | V3 | Транскрипция | Перевод |
+|---|---|---|---|---|
+| find | found | found | [faɪnd] – [faʊnd] – [faʊnd] | находить |
+| bind | bound | bound | [baɪnd] – [baʊnd] – [baʊnd] | связывать, переплетать (книгу) |
+
+## 6. -ay → -aid — -ay / -ake превращается в -aid / -ade
 
 V2 = V3. В конце появляется -d: pay → paid, lay → laid, say → said, make → made.
 
@@ -81,7 +90,7 @@ V2 = V3. В конце появляется -d: pay → paid, lay → laid, say 
 | lay | laid | laid | [leɪ] – [leɪd] – [leɪd] | класть, накрывать (на стол) |
 | make | made | made | [meɪk] – [meɪd] – [meɪd] | делать, готовить |
 
-## 6. → [ʌ]  u — Гласная превращается в «u» [ʌ]
+## 7. → [ʌ]  u — Гласная превращается в «u» [ʌ]
 
 V2 = V3. Гласная корня (i, a) меняется на u [ʌ]: dig → dug, hang → hung, stick → stuck.
 
@@ -92,9 +101,9 @@ V2 = V3. Гласная корня (i, a) меняется на u [ʌ]: dig → 
 | hang | hung | hung | [hæŋ] – [hʌŋ] – [hʌŋ] | вешать, висеть |
 | win | won | won | [wɪn] – [wʌn] – [wʌn] | выигрывать, побеждать |
 
-## 7. A – B – B (смешанные) — V2 = V3, но у каждой пары своё чередование
+## 8. A – B – B (смешанные) — V2 = V3, но у каждой пары своё чередование
 
-Вторая и третья формы совпадают. Запоминаем рифмующимися парами: sold / told, stood / understood, shot / got / lost, lit / sat, found.
+Вторая и третья формы совпадают. Запоминаем рифмующимися парами: sold / told, stood / understood, shot / got / lost, lit / sat.
 
 | V1 | V2 | V3 | Транскрипция | Перевод |
 |---|---|---|---|---|
@@ -110,10 +119,9 @@ V2 = V3. Гласная корня (i, a) меняется на u [ʌ]: dig → 
 | lose | lost | lost | [luːz] – [lɒst] – [lɒst] | терять, проигрывать |
 | light | lit | lit | [laɪt] – [lɪt] – [lɪt] | зажигать, освещать |
 | get | got | got/gotten | [ɡet] – [ɡɒt] – [ɡɒt] | получать, становиться |
-| find | found | found | [faɪnd] – [faʊnd] – [faʊnd] | находить |
 | shine | shone | shone | [ʃaɪn] – [ʃɒn] – [ʃɒn] | светить, сиять |
 
-## 8. A – B – A — Третья форма возвращается к первой
+## 9. A – B – A — Третья форма возвращается к первой
 
 Меняется только V2, а V3 совпадает с V1: come – came – come, run – ran – run.
 
@@ -123,7 +131,7 @@ V2 = V3. Гласная корня (i, a) меняется на u [ʌ]: dig → 
 | become | became | become | [bɪˈkʌm] – [bɪˈkeɪm] – [bɪˈkʌm] | становиться |
 | run | ran | run | [rʌn] – [ræn] – [rʌn] | бегать, руководить |
 
-## 9. i – a – u — Музыкальная тройка i – a – u
+## 10. i – a – u — Музыкальная тройка i – a – u
 
 Три разные формы, но меняется только одна гласная: i [ɪ] → a [æ] → u [ʌ]. sing – sang – sung.
 
@@ -137,7 +145,7 @@ V2 = V3. Гласная корня (i, a) меняется на u [ʌ]: dig → 
 | swim | swam | swum | [swɪm] – [swæm] – [swʌm] | плавать |
 | spring | sprang | sprung | [sprɪŋ] – [spræŋ] – [sprʌŋ] | прыгать, внезапно появляться |
 
-## 10. [aɪ] – [əʊ] – [ɪ] + en — i – o – i + en
+## 11. [aɪ] – [əʊ] – [ɪ] + en — i – o – i + en
 
 Три разные формы: [aɪ] в V1, o [əʊ] в V2, краткий [ɪ] + -en в V3. drive – drove – driven.
 
@@ -148,7 +156,7 @@ V2 = V3. Гласная корня (i, a) меняется на u [ʌ]: dig → 
 | rise | rose | risen | [raɪz] – [rəʊz] – [ˈrɪzn] | подниматься, вставать |
 | write | wrote | written | [raɪt] – [rəʊt] – [ˈrɪtn] | писать |
 
-## 11. -ew – -own — V2 на -ew, V3 на -own
+## 12. -ew – -own — V2 на -ew, V3 на -own
 
 V2 оканчивается на -ew [uː], V3 – на -own / -awn: blow – blew – blown, draw – drew – drawn, fly – flew – flown.
 
@@ -161,7 +169,7 @@ V2 оканчивается на -ew [uː], V3 – на -own / -awn: blow – bl
 | fly | flew | flown | [flaɪ] – [fluː] – [fləʊn] | летать |
 | draw | drew | drawn | [drɔː] – [druː] – [drɔːn] | рисовать |
 
-## 12. – o – o + en — V2 с «o», V3 = V2 + en
+## 13. – o – o + en — V2 с «o», V3 = V2 + en
 
 Во V2 и V3 появляется o [əʊ], а к V3 добавляется -en: speak – spoke – spoken, choose – chose – chosen.
 
@@ -175,7 +183,7 @@ V2 оканчивается на -ew [uː], V3 – на -own / -awn: blow – bl
 | wake | woke | woken | [weɪk] – [wəʊk] – [ˈwəʊkən] | просыпаться, будить |
 | forget | forgot | forgotten | [fəˈɡet] – [fəˈɡɒt] – [fəˈɡɒtn] | забывать |
 
-## 13. -ear → -ore – -orn — -ear превращается в -ore / -orn
+## 14. -ear → -ore – -orn — -ear превращается в -ore / -orn
 
 Все глаголы на -ear [eə]: V2 на -ore [ɔː], V3 на -orn [ɔːn]. wear – wore – worn.
 
@@ -186,7 +194,7 @@ V2 оканчивается на -ew [uː], V3 – на -own / -awn: blow – bl
 | swear | swore | sworn | [sweə] – [swɔː] – [swɔːn] | клясться, ругаться |
 | bear | bore | borne/born | [beə] – [bɔː] – [bɔːn] | выносить, терпеть; рождать |
 
-## 14. A – B – A + n — V3 = V1 + (e)n
+## 15. A – B – A + n — V3 = V1 + (e)n
 
 Меняется V2, а V3 строится от V1 с окончанием -n / -en: take – took – taken, give – gave – given, see – saw – seen.
 
@@ -202,7 +210,7 @@ V2 оканчивается на -ew [uː], V3 – на -own / -awn: blow – bl
 | forgive | forgave | forgiven | [fəˈɡɪv] – [fəˈɡeɪv] – [fəˈɡɪvn] | прощать |
 | see | saw | seen | [siː] – [sɔː] – [siːn] | видеть |
 
-## 15. Особые — Глаголы-одиночки: учим целиком
+## 16. Особые — Глаголы-одиночки: учим целиком
 
 У этих глаголов нет «семьи» – формы запоминаем как отдельные слова. Это самые частые глаголы языка!
 
