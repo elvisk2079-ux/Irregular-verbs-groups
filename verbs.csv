@@ -7,18 +7,12 @@
 1,A – A – A,hurt,hurt,hurt,hɜːt,hɜːt,hɜːt,"причинять боль, ушибить"
 1,A – A – A,cost,cost,cost,kɒst,kɒst,kɒst,стоить
 1,A – A – A,shut,shut,shut,ʃʌt,ʃʌt,ʃʌt,закрывать
-1,A – A – A,spread,spread,spread,spred,spred,spred,"распространять(ся), намазывать"
-1,A – A – A,split,split,split,splɪt,splɪt,splɪt,разделять
 1,A – A – A,quit,quit,quit,kwɪt,kwɪt,kwɪt,бросать (занятие)
 1,A – A – A,bet,bet,bet,bet,bet,bet,"спорить (на что-то), держать пари"
-1,A – A – A,burst,burst,burst,bɜːst,bɜːst,bɜːst,"лопаться, прорываться"
-1,A – A – A,broadcast,broadcast,broadcast,ˈbrɔːdkɑːst,ˈbrɔːdkɑːst,ˈbrɔːdkɑːst,транслировать
-1,A – A – A,upset,upset,upset,ʌpˈset,ʌpˈset,ʌpˈset,расстраивать
-1,A – A – A,forecast,forecast,forecast,ˈfɔːkɑːst,ˈfɔːkɑːst,ˈfɔːkɑːst,прогнозировать
 1,A – A – A,read,read,read,riːd,red,red,читать
+1,A – A – A,rid,rid,rid,rɪd,rɪd,rɪd,избавлять(ся)
 2,[iː] → [e],keep,kept,kept,kiːp,kept,kept,"держать, хранить"
 2,[iː] → [e],sleep,slept,slept,sliːp,slept,slept,спать
-2,[iː] → [e],sweep,swept,swept,swiːp,swept,swept,"подметать, сметать"
 2,[iː] → [e],feel,felt,felt,fiːl,felt,felt,чувствовать
 2,[iː] → [e],meet,met,met,miːt,met,met,"встречать, знакомиться"
 2,[iː] → [e],feed,fed,fed,fiːd,fed,fed,кормить
@@ -27,8 +21,8 @@
 2,[iː] → [e],mean,meant,meant,miːn,ment,ment,"значить, иметь в виду"
 2,[iː] → [e],deal,dealt,dealt,diːl,delt,delt,"иметь дело, разбираться"
 2,[iː] → [e],dream,dreamt/dreamed,dreamt/dreamed,driːm,dremt,dremt,"мечтать, видеть сон"
-2,[iː] → [e],flee,fled,fled,fliː,fled,fled,"бежать, спасаться бегством"
 2,[iː] → [e],bleed,bled,bled,bliːd,bled,bled,кровоточить
+2,[iː] → [e],creep,crept,crept,kriːp,krept,krept,"ползти, красться"
 2,[iː] → [e],breed,bred,bred,briːd,bred,bred,разводить (животных)
 3,→ [ɔːt] ought / aught,buy,bought,bought,baɪ,bɔːt,bɔːt,покупать
 3,→ [ɔːt] ought / aught,bring,brought,brought,brɪŋ,brɔːt,brɔːt,"приносить, привозить"
@@ -37,95 +31,79 @@
 3,→ [ɔːt] ought / aught,seek,sought,sought,siːk,sɔːt,sɔːt,"искать, стремиться"
 3,→ [ɔːt] ought / aught,catch,caught,caught,kætʃ,kɔːt,kɔːt,"ловить, успевать"
 3,→ [ɔːt] ought / aught,teach,taught,taught,tiːtʃ,tɔːt,tɔːt,"учить, преподавать"
-4,-d / -l / -n → -t,build,built,built,bɪld,bɪlt,bɪlt,строить
-4,-d / -l / -n → -t,send,sent,sent,send,sent,sent,отправлять
-4,-d / -l / -n → -t,spend,spent,spent,spend,spent,spent,"тратить, проводить (время)"
-4,-d / -l / -n → -t,lend,lent,lent,lend,lent,lent,одалживать (кому-то)
-4,-d / -l / -n → -t,bend,bent,bent,bend,bent,bent,"сгибать, наклоняться"
-4,-d / -l / -n → -t,burn,burnt/burned,burnt/burned,bɜːn,bɜːnt,bɜːnt,"гореть, обжигать"
-4,-d / -l / -n → -t,learn,learnt/learned,learnt/learned,lɜːn,lɜːnt,lɜːnt,"учить, узнавать"
-4,-d / -l / -n → -t,spell,spelt/spelled,spelt/spelled,spel,spelt,spelt,писать по буквам
-4,-d / -l / -n → -t,smell,smelt/smelled,smelt/smelled,smel,smelt,smelt,"пахнуть, нюхать"
-4,-d / -l / -n → -t,spill,spilt/spilled,spilt/spilled,spɪl,spɪlt,spɪlt,проливать
-5,[aɪ] → [aʊ]  ind → ound,find,found,found,faɪnd,faʊnd,faʊnd,находить
-5,[aɪ] → [aʊ]  ind → ound,bind,bound,bound,baɪnd,baʊnd,baʊnd,"связывать, переплетать"
-5,[aɪ] → [aʊ]  ind → ound,wind,wound,wound,waɪnd,waʊnd,waʊnd,"виться, заводить (часы)"
-5,[aɪ] → [aʊ]  ind → ound,grind,ground,ground,ɡraɪnd,ɡraʊnd,ɡraʊnd,молоть
-6,-ay → -aid,say,said,said,seɪ,sed,sed,сказать
-6,-ay → -aid,pay,paid,paid,peɪ,peɪd,peɪd,платить
-6,-ay → -aid,lay,laid,laid,leɪ,leɪd,leɪd,"класть, накрывать (на стол)"
-6,-ay → -aid,make,made,made,meɪk,meɪd,meɪd,"делать, готовить"
-7,→ [ʌ]  u,dig,dug,dug,dɪɡ,dʌɡ,dʌɡ,копать
-7,→ [ʌ]  u,stick,stuck,stuck,stɪk,stʌk,stʌk,"приклеивать, застревать"
-7,→ [ʌ]  u,sting,stung,stung,stɪŋ,stʌŋ,stʌŋ,жалить
-7,→ [ʌ]  u,swing,swung,swung,swɪŋ,swʌŋ,swʌŋ,"качать(ся), размахивать"
-7,→ [ʌ]  u,hang,hung,hung,hæŋ,hʌŋ,hʌŋ,"вешать, висеть"
-7,→ [ʌ]  u,spin,spun,spun,spɪn,spʌn,spʌn,"крутить(ся), прясть"
-7,→ [ʌ]  u,strike,struck,struck,straɪk,strʌk,strʌk,"ударять, поражать"
-7,→ [ʌ]  u,win,won,won,wɪn,wʌn,wʌn,"выигрывать, побеждать"
-8,A – B – B (смешанные),sell,sold,sold,sel,səʊld,səʊld,продавать
-8,A – B – B (смешанные),tell,told,told,tel,təʊld,təʊld,"рассказывать, сообщать"
-8,A – B – B (смешанные),hold,held,held,həʊld,held,held,"держать, проводить (мероприятие)"
-8,A – B – B (смешанные),stand,stood,stood,stænd,stʊd,stʊd,стоять
-8,A – B – B (смешанные),understand,understood,understood,ˌʌndəˈstænd,ˌʌndəˈstʊd,ˌʌndəˈstʊd,понимать
-8,A – B – B (смешанные),have,had,had,hæv,hæd,hæd,иметь
-8,A – B – B (смешанные),hear,heard,heard,hɪə,hɜːd,hɜːd,слышать
-8,A – B – B (смешанные),sit,sat,sat,sɪt,sæt,sæt,сидеть
-8,A – B – B (смешанные),shoot,shot,shot,ʃuːt,ʃɒt,ʃɒt,"стрелять, снимать (фильм)"
-8,A – B – B (смешанные),lose,lost,lost,luːz,lɒst,lɒst,"терять, проигрывать"
-8,A – B – B (смешанные),light,lit,lit,laɪt,lɪt,lɪt,"зажигать, освещать"
-8,A – B – B (смешанные),slide,slid,slid,slaɪd,slɪd,slɪd,скользить
-8,A – B – B (смешанные),get,got,got/gotten,ɡet,ɡɒt,ɡɒt,"получать, становиться"
-8,A – B – B (смешанные),shine,shone,shone,ʃaɪn,ʃɒn,ʃɒn,"светить, сиять"
-9,A – B – A,come,came,come,kʌm,keɪm,kʌm,приходить
-9,A – B – A,become,became,become,bɪˈkʌm,bɪˈkeɪm,bɪˈkʌm,становиться
-9,A – B – A,overcome,overcame,overcome,ˌəʊvəˈkʌm,ˌəʊvəˈkeɪm,ˌəʊvəˈkʌm,преодолевать
-9,A – B – A,run,ran,run,rʌn,ræn,rʌn,"бегать, руководить"
-10,i – a – u,begin,began,begun,bɪˈɡɪn,bɪˈɡæn,bɪˈɡʌn,начинать
-10,i – a – u,drink,drank,drunk,drɪŋk,dræŋk,drʌŋk,пить
-10,i – a – u,ring,rang,rung,rɪŋ,ræŋ,rʌŋ,"звонить, звенеть"
-10,i – a – u,sing,sang,sung,sɪŋ,sæŋ,sʌŋ,петь
-10,i – a – u,sink,sank,sunk,sɪŋk,sæŋk,sʌŋk,тонуть
-10,i – a – u,swim,swam,swum,swɪm,swæm,swʌm,плавать
-10,i – a – u,shrink,shrank,shrunk,ʃrɪŋk,ʃræŋk,ʃrʌŋk,"садиться (о ткани), уменьшаться"
-10,i – a – u,spring,sprang,sprung,sprɪŋ,spræŋ,sprʌŋ,"прыгать, внезапно появляться"
-10,i – a – u,stink,stank,stunk,stɪŋk,stæŋk,stʌŋk,вонять
-11,[aɪ] – [əʊ] – [ɪ] + en,drive,drove,driven,draɪv,drəʊv,ˈdrɪvn,"водить (машину), везти"
-11,[aɪ] – [əʊ] – [ɪ] + en,ride,rode,ridden,raɪd,rəʊd,ˈrɪdn,ездить верхом / на велосипеде
-11,[aɪ] – [əʊ] – [ɪ] + en,rise,rose,risen,raɪz,rəʊz,ˈrɪzn,"подниматься, вставать"
-11,[aɪ] – [əʊ] – [ɪ] + en,arise,arose,arisen,əˈraɪz,əˈrəʊz,əˈrɪzn,возникать
-11,[aɪ] – [əʊ] – [ɪ] + en,write,wrote,written,raɪt,rəʊt,ˈrɪtn,писать
-12,-ew – -own,blow,blew,blown,bləʊ,bluː,bləʊn,дуть
-12,-ew – -own,grow,grew,grown,ɡrəʊ,ɡruː,ɡrəʊn,"расти, выращивать"
-12,-ew – -own,know,knew,known,nəʊ,njuː,nəʊn,знать
-12,-ew – -own,throw,threw,thrown,θrəʊ,θruː,θrəʊn,бросать
-12,-ew – -own,fly,flew,flown,flaɪ,fluː,fləʊn,летать
-12,-ew – -own,draw,drew,drawn,drɔː,druː,drɔːn,рисовать
-12,-ew – -own,withdraw,withdrew,withdrawn,wɪðˈdrɔː,wɪðˈdruː,wɪðˈdrɔːn,"снимать (деньги), отзывать"
-13,– o – o + en,break,broke,broken,breɪk,brəʊk,ˈbrəʊkən,"ломать, разбивать"
-13,– o – o + en,choose,chose,chosen,tʃuːz,tʃəʊz,ˈtʃəʊzn,выбирать
-13,– o – o + en,speak,spoke,spoken,spiːk,spəʊk,ˈspəʊkən,говорить
-13,– o – o + en,steal,stole,stolen,stiːl,stəʊl,ˈstəʊlən,красть
-13,– o – o + en,freeze,froze,frozen,friːz,frəʊz,ˈfrəʊzn,"замерзать, замораживать"
-13,– o – o + en,wake,woke,woken,weɪk,wəʊk,ˈwəʊkən,"просыпаться, будить"
-13,– o – o + en,forget,forgot,forgotten,fəˈɡet,fəˈɡɒt,fəˈɡɒtn,забывать
-14,-ear → -ore – -orn,wear,wore,worn,weə,wɔː,wɔːn,носить (одежду)
-14,-ear → -ore – -orn,tear,tore,torn,teə,tɔː,tɔːn,рвать
-14,-ear → -ore – -orn,swear,swore,sworn,sweə,swɔː,swɔːn,"клясться, ругаться"
-14,-ear → -ore – -orn,bear,bore,borne/born,beə,bɔː,bɔːn,"выносить, терпеть; рождать"
-15,A – B – A + n,take,took,taken,teɪk,tʊk,ˈteɪkən,брать
-15,A – B – A + n,mistake,mistook,mistaken,mɪˈsteɪk,mɪˈstʊk,mɪˈsteɪkən,"ошибаться, принимать за другого"
-15,A – B – A + n,shake,shook,shaken,ʃeɪk,ʃʊk,ˈʃeɪkən,"трясти, пожимать (руку)"
-15,A – B – A + n,eat,ate,eaten,iːt,et,ˈiːtn,есть
-15,A – B – A + n,fall,fell,fallen,fɔːl,fel,ˈfɔːlən,падать
-15,A – B – A + n,give,gave,given,ɡɪv,ɡeɪv,ˈɡɪvn,"давать, дарить"
-15,A – B – A + n,forgive,forgave,forgiven,fəˈɡɪv,fəˈɡeɪv,fəˈɡɪvn,прощать
-15,A – B – A + n,see,saw,seen,siː,sɔː,siːn,видеть
-15,A – B – A + n,forbid,forbade,forbidden,fəˈbɪd,fəˈbæd,fəˈbɪdn,запрещать
-16,Особые,be,was/were,been,biː,wɒz / wɜː,biːn,быть
-16,Особые,do,did,done,duː,dɪd,dʌn,делать
-16,Особые,go,went,gone,ɡəʊ,went,ɡɒn,"идти, ехать"
-16,Особые,lie,lay,lain,laɪ,leɪ,leɪn,лежать
-16,Особые,bite,bit,bitten,baɪt,bɪt,ˈbɪtn,кусать
-16,Особые,hide,hid,hidden,haɪd,hɪd,ˈhɪdn,прятать(ся)
-16,Особые,show,showed,shown,ʃəʊ,ʃəʊd,ʃəʊn,показывать
+4,-d / -n → -t,build,built,built,bɪld,bɪlt,bɪlt,строить
+4,-d / -n → -t,send,sent,sent,send,sent,sent,отправлять
+4,-d / -n → -t,spend,spent,spent,spend,spent,spent,"тратить, проводить (время)"
+4,-d / -n → -t,lend,lent,lent,lend,lent,lent,одалживать (кому-то)
+4,-d / -n → -t,bend,bent,bent,bend,bent,bent,"сгибать, наклоняться"
+4,-d / -n → -t,burn,burnt/burned,burnt/burned,bɜːn,bɜːnt,bɜːnt,"гореть, обжигать"
+4,-d / -n → -t,learn,learnt/learned,learnt/learned,lɜːn,lɜːnt,lɜːnt,"учить, узнавать"
+5,-ay → -aid,say,said,said,seɪ,sed,sed,сказать
+5,-ay → -aid,pay,paid,paid,peɪ,peɪd,peɪd,платить
+5,-ay → -aid,lay,laid,laid,leɪ,leɪd,leɪd,"класть, накрывать (на стол)"
+5,-ay → -aid,make,made,made,meɪk,meɪd,meɪd,"делать, готовить"
+6,→ [ʌ]  u,dig,dug,dug,dɪɡ,dʌɡ,dʌɡ,копать
+6,→ [ʌ]  u,stick,stuck,stuck,stɪk,stʌk,stʌk,"приклеивать, застревать"
+6,→ [ʌ]  u,hang,hung,hung,hæŋ,hʌŋ,hʌŋ,"вешать, висеть"
+6,→ [ʌ]  u,win,won,won,wɪn,wʌn,wʌn,"выигрывать, побеждать"
+7,A – B – B (смешанные),sell,sold,sold,sel,səʊld,səʊld,продавать
+7,A – B – B (смешанные),tell,told,told,tel,təʊld,təʊld,"рассказывать, сообщать"
+7,A – B – B (смешанные),hold,held,held,həʊld,held,held,"держать, проводить (мероприятие)"
+7,A – B – B (смешанные),stand,stood,stood,stænd,stʊd,stʊd,стоять
+7,A – B – B (смешанные),understand,understood,understood,ˌʌndəˈstænd,ˌʌndəˈstʊd,ˌʌndəˈstʊd,понимать
+7,A – B – B (смешанные),have,had,had,hæv,hæd,hæd,иметь
+7,A – B – B (смешанные),hear,heard,heard,hɪə,hɜːd,hɜːd,слышать
+7,A – B – B (смешанные),sit,sat,sat,sɪt,sæt,sæt,сидеть
+7,A – B – B (смешанные),shoot,shot,shot,ʃuːt,ʃɒt,ʃɒt,"стрелять, снимать (фильм)"
+7,A – B – B (смешанные),lose,lost,lost,luːz,lɒst,lɒst,"терять, проигрывать"
+7,A – B – B (смешанные),light,lit,lit,laɪt,lɪt,lɪt,"зажигать, освещать"
+7,A – B – B (смешанные),get,got,got/gotten,ɡet,ɡɒt,ɡɒt,"получать, становиться"
+7,A – B – B (смешанные),find,found,found,faɪnd,faʊnd,faʊnd,находить
+7,A – B – B (смешанные),shine,shone,shone,ʃaɪn,ʃɒn,ʃɒn,"светить, сиять"
+8,A – B – A,come,came,come,kʌm,keɪm,kʌm,приходить
+8,A – B – A,become,became,become,bɪˈkʌm,bɪˈkeɪm,bɪˈkʌm,становиться
+8,A – B – A,run,ran,run,rʌn,ræn,rʌn,"бегать, руководить"
+9,i – a – u,begin,began,begun,bɪˈɡɪn,bɪˈɡæn,bɪˈɡʌn,начинать
+9,i – a – u,drink,drank,drunk,drɪŋk,dræŋk,drʌŋk,пить
+9,i – a – u,ring,rang,rung,rɪŋ,ræŋ,rʌŋ,"звонить, звенеть"
+9,i – a – u,sing,sang,sung,sɪŋ,sæŋ,sʌŋ,петь
+9,i – a – u,sink,sank,sunk,sɪŋk,sæŋk,sʌŋk,тонуть
+9,i – a – u,swim,swam,swum,swɪm,swæm,swʌm,плавать
+9,i – a – u,spring,sprang,sprung,sprɪŋ,spræŋ,sprʌŋ,"прыгать, внезапно появляться"
+10,[aɪ] – [əʊ] – [ɪ] + en,drive,drove,driven,draɪv,drəʊv,ˈdrɪvn,"водить (машину), везти"
+10,[aɪ] – [əʊ] – [ɪ] + en,ride,rode,ridden,raɪd,rəʊd,ˈrɪdn,ездить верхом / на велосипеде
+10,[aɪ] – [əʊ] – [ɪ] + en,rise,rose,risen,raɪz,rəʊz,ˈrɪzn,"подниматься, вставать"
+10,[aɪ] – [əʊ] – [ɪ] + en,write,wrote,written,raɪt,rəʊt,ˈrɪtn,писать
+11,-ew – -own,blow,blew,blown,bləʊ,bluː,bləʊn,дуть
+11,-ew – -own,grow,grew,grown,ɡrəʊ,ɡruː,ɡrəʊn,"расти, выращивать"
+11,-ew – -own,know,knew,known,nəʊ,njuː,nəʊn,знать
+11,-ew – -own,throw,threw,thrown,θrəʊ,θruː,θrəʊn,бросать
+11,-ew – -own,fly,flew,flown,flaɪ,fluː,fləʊn,летать
+11,-ew – -own,draw,drew,drawn,drɔː,druː,drɔːn,рисовать
+12,– o – o + en,break,broke,broken,breɪk,brəʊk,ˈbrəʊkən,"ломать, разбивать"
+12,– o – o + en,choose,chose,chosen,tʃuːz,tʃəʊz,ˈtʃəʊzn,выбирать
+12,– o – o + en,speak,spoke,spoken,spiːk,spəʊk,ˈspəʊkən,говорить
+12,– o – o + en,steal,stole,stolen,stiːl,stəʊl,ˈstəʊlən,красть
+12,– o – o + en,freeze,froze,frozen,friːz,frəʊz,ˈfrəʊzn,"замерзать, замораживать"
+12,– o – o + en,wake,woke,woken,weɪk,wəʊk,ˈwəʊkən,"просыпаться, будить"
+12,– o – o + en,forget,forgot,forgotten,fəˈɡet,fəˈɡɒt,fəˈɡɒtn,забывать
+13,-ear → -ore – -orn,wear,wore,worn,weə,wɔː,wɔːn,носить (одежду)
+13,-ear → -ore – -orn,tear,tore,torn,teə,tɔː,tɔːn,рвать
+13,-ear → -ore – -orn,swear,swore,sworn,sweə,swɔː,swɔːn,"клясться, ругаться"
+13,-ear → -ore – -orn,bear,bore,borne/born,beə,bɔː,bɔːn,"выносить, терпеть; рождать"
+14,A – B – A + n,take,took,taken,teɪk,tʊk,ˈteɪkən,брать
+14,A – B – A + n,shake,shook,shaken,ʃeɪk,ʃʊk,ˈʃeɪkən,"трясти, пожимать (руку)"
+14,A – B – A + n,beat,beat,beaten,biːt,biːt,ˈbiːtn,"бить, побеждать"
+14,A – B – A + n,prove,proved,proven/proved,pruːv,pruːvd,ˈpruːvn,доказывать
+14,A – B – A + n,eat,ate,eaten,iːt,et,ˈiːtn,есть
+14,A – B – A + n,fall,fell,fallen,fɔːl,fel,ˈfɔːlən,падать
+14,A – B – A + n,give,gave,given,ɡɪv,ɡeɪv,ˈɡɪvn,"давать, дарить"
+14,A – B – A + n,forgive,forgave,forgiven,fəˈɡɪv,fəˈɡeɪv,fəˈɡɪvn,прощать
+14,A – B – A + n,see,saw,seen,siː,sɔː,siːn,видеть
+15,Особые,be,was/were,been,biː,wɒz / wɜː,biːn,быть
+15,Особые,do,did,done,duː,dɪd,dʌn,делать
+15,Особые,go,went,gone,ɡəʊ,went,ɡɒn,"идти, ехать"
+15,Особые,lie,lay,lain,laɪ,leɪ,leɪn,лежать
+15,Особые,bite,bit,bitten,baɪt,bɪt,ˈbɪtn,кусать
+15,Особые,hide,hid,hidden,haɪd,hɪd,ˈhɪdn,прятать(ся)
+15,Особые,show,showed,shown,ʃəʊ,ʃəʊd,ʃəʊn,показывать
