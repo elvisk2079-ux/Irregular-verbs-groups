@@ -1,5 +1,9 @@
 # Неправильные глаголы по группам чередований (B1–B2)
 
+## 👉 [Открыть тренажёр](https://elvisk2079-ux.github.io/Irregular-verbs-groups/)
+
+https://elvisk2079-ux.github.io/Irregular-verbs-groups/
+
 «Чемоданчик учителя английского» · 108 глаголов · 15 групп (по таблице «Irregular Verbs for B2»)
 
 - `index.html` — главная: распределение всех глаголов по группам
