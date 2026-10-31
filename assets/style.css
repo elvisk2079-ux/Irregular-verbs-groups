@@ -51,7 +51,9 @@ a{color:var(--accent)}
 .vt .ru{color:var(--muted);font-size:15px}
 @media(max-width:640px){
   .vt thead{display:none}
-  .vt tr{display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:2px 8px;padding:10px 0;border-bottom:1px solid var(--line)}
+  .vt tr{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr) minmax(0,1fr) auto;gap:2px 8px;padding:10px 0;border-bottom:1px solid var(--line)}
+  .vt .f{font-size:15.5px;overflow-wrap:anywhere}
+  .vt .ipa{font-size:12.5px;overflow-wrap:anywhere}
   .vt td{border:0;padding:0}
   .vt td.ru{grid-column:1/4;order:5;font-size:14px}
 }

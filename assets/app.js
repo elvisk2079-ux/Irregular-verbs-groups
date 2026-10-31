@@ -133,7 +133,7 @@ function attachCheck(p, onRestart){
   });
 }
 const controls = `<div class="row-btns"><button class="btn do-check">Проверить</button><button class="btn ghost do-again">🔄 Заново</button><span class="score"></span></div>`;
-const inp = (answer, ph="") => `<input class="ans" data-a="${esc(answer)}" placeholder="${esc(ph)}" autocomplete="off" autocapitalize="off" spellcheck="false">`;
+const inp = (answer, ph="") => `<input class="ans" data-a="${esc(answer)}" placeholder="${esc(ph)}" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">`;
 
 /* ---------- 3. three forms ---------- */
 function renderThree(){
