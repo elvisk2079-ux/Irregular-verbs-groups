@@ -3,6 +3,7 @@
 import html, json, os, re, sys, csv
 sys.path.insert(0, os.path.dirname(__file__))
 from data import GROUPS, SAY
+from extra import EXTRA
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.makedirs(os.path.join(ROOT, "groups"), exist_ok=True)
@@ -14,11 +15,17 @@ problems = []
 
 def verb_obj(t):
     v1, v2, v3, i1, i2, i3, ru, s2, t2, s3, t3 = t
-    for s, f, n in ((s2, v2, "V2"), (s3, v3, "V3")):
+    x = EXTRA.get(v1)
+    if not x: problems.append(f"{v1}: no extra sentences"); x = (None,) * 6
+    # sentences: [text, translation, form index]
+    sents = [[s2, t2, 1], [s3, t3, 2], [x[0], x[1], 1], [x[2], x[3], 2], [x[4], x[5], 0]]
+    sents = [s for s in sents if s[0]]
+    forms = [v1, v2, v3]
+    for s, _, i in sents:
         m = re.findall(r"\*([^*]+)\*", s)
-        if len(m) != 1: problems.append(f"{v1}: {n} sentence needs one *target*: {s}")
-        elif m[0].lower() not in alts(f): problems.append(f"{v1}: {n} target '{m[0]}' not in '{f}'")
-    o = dict(v=[v1, v2, v3], ipa=[i1, i2, i3], ru=ru, s2=s2, t2=t2, s3=s3, t3=t3)
+        if len(m) != 1: problems.append(f"{v1}: sentence needs one *target*: {s}")
+        elif m[0].lower() not in alts(forms[i]): problems.append(f"{v1}: target '{m[0]}' not in '{forms[i]}'")
+    o = dict(v=forms, ipa=[i1, i2, i3], ru=ru, sents=sents)
     if v1 in SAY: o["say"] = list(SAY[v1])
     return o
 
@@ -48,14 +55,15 @@ for n, g in enumerate(GROUPS):
     prev = GROUPS[n - 1] if n else None
     nxt = GROUPS[n + 1] if n + 1 < len(GROUPS) else None
     data = dict(id=g["id"], pattern=g["pattern"], title=g["title"], verbs=[verb_obj(t) for t in g["verbs"]],
-                story_title=g["story_title"], story=expand_story(g))
+                story_title=g["story_title"], story=expand_story(g),
+                next=(dict(url=f'{nxt["id"]}.html', label=nxt["example"]) if nxt else None))
     nav = '<nav class="top-nav"><a href="../index.html">← Все группы</a><span>' + \
           (f'<a href="{prev["id"]}.html">‹ {e(prev["example"])}</a> ' if prev else "") + \
           (f'<a href="{nxt["id"]}.html">{e(nxt["example"])} ›</a>' if nxt else "") + "</span></nav>"
     body = f"""{nav}<header class="hero"><div class="brand">{BRAND} · Группа {int(g['id'])} из {len(GROUPS)}</div>
 <span class="pattern">{e(g['pattern'])}</span><h1>{e(g['title'])}</h1>
 <div class="example">{e(g['example'])}</div><p class="rule">{g['rule']}</p><div class="tip">{g['tip']}</div></header>
-<div class="tabs" id="tabs"></div><div id="panels"></div>
+<nav class="steps" id="steps"></nav><div id="feed"></div>
 <script>window.GROUP={json.dumps(data, ensure_ascii=False)};</script><script src="../assets/app.js"></script>"""
     with open(os.path.join(ROOT, "groups", f"{g['id']}.html"), "w", encoding="utf-8") as f:
         f.write(page(f"{g['example']} — неправильные глаголы", body, 1))
@@ -73,7 +81,7 @@ for g in GROUPS:
 body = f"""<header class="hero"><div class="brand">{BRAND}</div><h1>Неправильные глаголы по группам чередований</h1>
 <p class="rule">{total} самых нужных неправильных глаголов уровня B1–B2, разложенных на {len(GROUPS)} групп по одинаковому чередованию звуков.
 Учить глаголы «семьями» в разы легче, чем по алфавиту: запомнили одну модель — знаете всю группу.</p>
-<div class="tip">В каждой группе: таблица с озвучкой, карточки, три формы по переводу, диктант на слух, выбор формы, предложения и история с пропусками.</div></header>
+<div class="tip">В каждой группе упражнения идут одно за другим: карточки с озвучкой, недостающие формы, «раскройте скобки», выбор формы, поиск ошибок, перевод и история с пропусками. Просто листайте вниз!</div></header>
 <h2>Выберите группу</h2><div class="grid">{cards}</div>
 <section class="panel active dist"><h2>Распределение глаголов по группам</h2>
 <div class="legend"><span class="c1">● V1 — инфинитив</span><span class="c2">● V2 — Past Simple</span><span class="c3">● V3 — Past Participle</span></div>{dist}</section>"""
